@@ -1,5 +1,6 @@
-layout_spectrum: 0.9592836983501911
 typography_spectrum: 0.922352081630379
+content_rating:
+  adult: true
 color:
   brandStrength: 0.1987595371901989
   lightness: 0.639223909471184
@@ -11,4 +12,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: AI Cam Girls
+layout_spectrum: 0.9592836983501911
+name: CamGirls.AI
+title: Cam Girls presented by an Artificial Intelligence
